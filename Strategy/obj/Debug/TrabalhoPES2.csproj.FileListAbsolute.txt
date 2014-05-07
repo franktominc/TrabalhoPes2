@@ -1,0 +1,6 @@
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\TrabalhoPES2\bin\Debug\TrabalhoPES2.exe.config
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\TrabalhoPES2\obj\Debug\TrabalhoPES2.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\TrabalhoPES2\bin\Debug\TrabalhoPES2.exe
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\TrabalhoPES2\bin\Debug\TrabalhoPES2.pdb
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\TrabalhoPES2\obj\Debug\TrabalhoPES2.exe
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\TrabalhoPES2\obj\Debug\TrabalhoPES2.pdb
