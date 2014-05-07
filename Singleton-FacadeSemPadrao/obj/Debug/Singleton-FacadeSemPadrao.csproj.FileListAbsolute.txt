@@ -4,3 +4,9 @@ C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Singleton-Faca
 C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Singleton-FacadeSemPadrao\obj\Debug\Singleton-FacadeSemPadrao.csprojResolveAssemblyReference.cache
 C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Singleton-FacadeSemPadrao\obj\Debug\Singleton-FacadeSemPadrao.exe
 C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Singleton-FacadeSemPadrao\obj\Debug\Singleton-FacadeSemPadrao.pdb
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Singleton-FacadeSemPadrao\bin\Debug\Singleton-FacadeSemPadrao.exe.config
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Singleton-FacadeSemPadrao\obj\Debug\Singleton-FacadeSemPadrao.exe
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Singleton-FacadeSemPadrao\obj\Debug\Singleton-FacadeSemPadrao.pdb
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Singleton-FacadeSemPadrao\bin\Debug\Singleton-FacadeSemPadrao.exe
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Singleton-FacadeSemPadrao\bin\Debug\Singleton-FacadeSemPadrao.pdb
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Singleton-FacadeSemPadrao\obj\Debug\Singleton-FacadeSemPadrao.csprojResolveAssemblyReference.cache

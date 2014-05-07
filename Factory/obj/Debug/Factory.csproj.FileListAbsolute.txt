@@ -1,0 +1,5 @@
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Factory\bin\Debug\Factory.exe.config
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Factory\bin\Debug\Factory.exe
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Factory\bin\Debug\Factory.pdb
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Factory\obj\Debug\Factory.exe
+D:\Users\Administrador\Documents\new folder\TrabalhoPes2\Factory\obj\Debug\Factory.pdb
