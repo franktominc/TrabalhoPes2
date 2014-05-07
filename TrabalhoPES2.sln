@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30110.0
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{4BFD0705-D3B9-4475-95CD-924B75624EE2}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton-FacadeSemPadrao", "Singleton-FacadeSemPadrao\Singleton-FacadeSemPadrao.csproj", "{D233FB2E-402E-4876-9DDD-6CD259047D9F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategySemPadrao", "StrategySemPadrao\StrategySemPadrao.csproj", "{BEDE6225-69C7-4086-A5A0-847E9CF92E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{CAB96DE2-12CA-47A7-98C2-AFC03D5F18BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{BEDE6225-69C7-4086-A5A0-847E9CF92E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEDE6225-69C7-4086-A5A0-847E9CF92E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEDE6225-69C7-4086-A5A0-847E9CF92E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB96DE2-12CA-47A7-98C2-AFC03D5F18BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB96DE2-12CA-47A7-98C2-AFC03D5F18BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB96DE2-12CA-47A7-98C2-AFC03D5F18BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB96DE2-12CA-47A7-98C2-AFC03D5F18BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
