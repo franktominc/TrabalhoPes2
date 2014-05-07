@@ -1,0 +1,6 @@
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\BuilderSemPadrao\bin\Debug\BuilderSemPadrao.exe.config
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\BuilderSemPadrao\bin\Debug\BuilderSemPadrao.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\BuilderSemPadrao\bin\Debug\BuilderSemPadrao.pdb
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\BuilderSemPadrao\obj\Debug\BuilderSemPadrao.csprojResolveAssemblyReference.cache
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\BuilderSemPadrao\obj\Debug\BuilderSemPadrao.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\BuilderSemPadrao\obj\Debug\BuilderSemPadrao.pdb

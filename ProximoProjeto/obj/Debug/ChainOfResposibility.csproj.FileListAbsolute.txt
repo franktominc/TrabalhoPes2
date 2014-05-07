@@ -1,0 +1,3 @@
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\bin\Debug\ProximoProjeto.exe.config
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\obj\Debug\ProximoProjeto.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\obj\Debug\ProximoProjeto.pdb

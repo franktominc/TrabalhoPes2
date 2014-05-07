@@ -1,0 +1,6 @@
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ChainOfResponsibilitySemPadrao\bin\Debug\ChainOfResponsibilitySemPadrao.exe.config
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ChainOfResponsibilitySemPadrao\bin\Debug\ChainOfResponsibilitySemPadrao.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ChainOfResponsibilitySemPadrao\bin\Debug\ChainOfResponsibilitySemPadrao.pdb
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ChainOfResponsibilitySemPadrao\obj\Debug\ChainOfResponsibilitySemPadrao.csprojResolveAssemblyReference.cache
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ChainOfResponsibilitySemPadrao\obj\Debug\ChainOfResponsibilitySemPadrao.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ChainOfResponsibilitySemPadrao\obj\Debug\ChainOfResponsibilitySemPadrao.pdb

@@ -1,0 +1,6 @@
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\bin\Debug\ProximoProjeto.exe.config
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\obj\Debug\ProximoProjeto.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\bin\Debug\ProximoProjeto.exe
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\bin\Debug\ProximoProjeto.pdb
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\obj\Debug\ProximoProjeto.exe
+c:\users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\obj\Debug\ProximoProjeto.pdb
