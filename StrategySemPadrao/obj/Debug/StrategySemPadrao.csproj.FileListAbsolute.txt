@@ -1,0 +1,6 @@
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\StrategySemPadrao\bin\Debug\StrategySemPadrao.exe.config
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\StrategySemPadrao\bin\Debug\StrategySemPadrao.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\StrategySemPadrao\bin\Debug\StrategySemPadrao.pdb
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\StrategySemPadrao\obj\Debug\StrategySemPadrao.csprojResolveAssemblyReference.cache
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\StrategySemPadrao\obj\Debug\StrategySemPadrao.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\StrategySemPadrao\obj\Debug\StrategySemPadrao.pdb

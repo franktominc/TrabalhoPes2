@@ -1,0 +1,5 @@
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\Strategy\bin\Debug\TrabalhoPES2.exe.config
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\Strategy\bin\Debug\TrabalhoPES2.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\Strategy\bin\Debug\TrabalhoPES2.pdb
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\Strategy\obj\Debug\TrabalhoPES2.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\Strategy\obj\Debug\TrabalhoPES2.pdb
