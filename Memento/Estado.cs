@@ -5,6 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Memento {
-    interface Estado {
+    public interface Estado {
     }
 }
