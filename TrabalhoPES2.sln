@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategySemPadrao", "Strate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{CAB96DE2-12CA-47A7-98C2-AFC03D5F18BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorySemPadrao", "FactorySemPadrao\FactorySemPadrao.csproj", "{F5017D7E-F1F7-4632-9F63-CC7263E01D8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CAB96DE2-12CA-47A7-98C2-AFC03D5F18BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB96DE2-12CA-47A7-98C2-AFC03D5F18BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB96DE2-12CA-47A7-98C2-AFC03D5F18BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5017D7E-F1F7-4632-9F63-CC7263E01D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5017D7E-F1F7-4632-9F63-CC7263E01D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5017D7E-F1F7-4632-9F63-CC7263E01D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5017D7E-F1F7-4632-9F63-CC7263E01D8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
