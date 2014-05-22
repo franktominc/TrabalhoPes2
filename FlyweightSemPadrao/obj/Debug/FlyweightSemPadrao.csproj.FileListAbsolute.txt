@@ -1,0 +1,6 @@
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\FlyweightSemPadrao\bin\Debug\FlyweightSemPadrao.exe.config
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\FlyweightSemPadrao\obj\Debug\FlyweightSemPadrao.csprojResolveAssemblyReference.cache
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\FlyweightSemPadrao\bin\Debug\FlyweightSemPadrao.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\FlyweightSemPadrao\bin\Debug\FlyweightSemPadrao.pdb
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\FlyweightSemPadrao\obj\Debug\FlyweightSemPadrao.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\FlyweightSemPadrao\obj\Debug\FlyweightSemPadrao.pdb
