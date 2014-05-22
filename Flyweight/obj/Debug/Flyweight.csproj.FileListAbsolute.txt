@@ -1,0 +1,6 @@
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\Flyweight\obj\Debug\Flyweight.pdb
