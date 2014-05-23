@@ -6,9 +6,9 @@ Trabalho de Pes2
 
 ==============Padrões Implementados=================
 
-1 - Bridge
-2 - Builder
-3 - Adapter
+1 - Bridge \n
+2 - Builder \n
+3 - Adapter \n
 4 - Chain Of Responsibility
 5 - Composite
 6 - Facade
