@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightSemPadrao", "FlyweightSemPadrao\FlyweightSemPadrao.csproj", "{5CB7ED3A-2A95-4638-9093-A0C072528761}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{EE16A1B2-DE91-4D09-B10C-77D9CD669601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorSemPadrao", "IteratorSemPadrao\IteratorSemPadrao.csproj", "{5B98A798-135F-4EFD-9338-D346D234A04B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{5CB7ED3A-2A95-4638-9093-A0C072528761}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CB7ED3A-2A95-4638-9093-A0C072528761}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CB7ED3A-2A95-4638-9093-A0C072528761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE16A1B2-DE91-4D09-B10C-77D9CD669601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE16A1B2-DE91-4D09-B10C-77D9CD669601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE16A1B2-DE91-4D09-B10C-77D9CD669601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE16A1B2-DE91-4D09-B10C-77D9CD669601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B98A798-135F-4EFD-9338-D346D234A04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B98A798-135F-4EFD-9338-D346D234A04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B98A798-135F-4EFD-9338-D346D234A04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B98A798-135F-4EFD-9338-D346D234A04B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
