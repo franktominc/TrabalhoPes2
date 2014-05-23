@@ -1,0 +1,6 @@
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\IteratorSemPadrao\bin\Debug\IteratorSemPadrao.exe.config
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\IteratorSemPadrao\bin\Debug\IteratorSemPadrao.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\IteratorSemPadrao\bin\Debug\IteratorSemPadrao.pdb
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\IteratorSemPadrao\obj\Debug\IteratorSemPadrao.csprojResolveAssemblyReference.cache
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\IteratorSemPadrao\obj\Debug\IteratorSemPadrao.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\IteratorSemPadrao\obj\Debug\IteratorSemPadrao.pdb

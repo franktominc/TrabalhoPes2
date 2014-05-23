@@ -1,0 +1,6 @@
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\bin\Debug\ProximoProjeto.exe.config
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\obj\Debug\ProximoProjeto.exe
+C:\Users\frank\documents\visual studio 2013\Projects\TrabalhoPES2\ProximoProjeto\obj\Debug\ProximoProjeto.pdb
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\ProximoProjeto\bin\Debug\ProximoProjeto.exe
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\ProximoProjeto\bin\Debug\ProximoProjeto.pdb
+C:\Users\frank\Documents\Visual Studio 2013\Projects\TrabalhoPES2\ProximoProjeto\obj\Debug\ChainOfResposibility.csprojResolveAssemblyReference.cache
